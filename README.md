@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# eat-n-split project
+
+Split the bill with friends application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
